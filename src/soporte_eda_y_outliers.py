@@ -857,7 +857,7 @@ class GestionOutliersMultivariados:
         
         df_outliers = pd.DataFrame(index = indices_a_eliminar.keys(),data=indices_a_eliminar.values())
         # Eliminar las filas identificadas
-        df_sin_outliers = self.dataframe.drop(index=indices_a_eliminar, inplace=True)
+        df_sin_outliers = self.dataframe.drop(index=indices_a_eliminar)
         print(f"se han eliminado {len(indices_a_eliminar)} columnas")
 
         return df_outliers,df_sin_outliers
