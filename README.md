@@ -81,7 +81,7 @@ En la carpeta Modelado2:
 
 A partir de los resultados de este análisis, se proponen las siguientes recomendaciones:
 
-1. **Las medidas de clusterización parecen adecuadas:** Unas mayores ventas bienen determinadas por aquellos productos que dan más beneficio, aquellos que se venden en más cantidad y un menor cste de envío
+1. **Las medidas de clusterización parecen adecuadas:** Unas mayores ventas vienen determinadas por aquellos productos que dan más beneficio, aquellos que se venden en más cantidad y un menor cste de envío
 
 2. **Ajustar políticas de descuento:** Los descuentos parecen funcdamentales, aquellos productos con descuentos muy altos (De hasta el 80%) se venden significativamente más.
 3. **Invertir en márketing para el material de oficina:** El material de oficina es significativamente más rentable que los productos tecnológicos. Es más barato y se le puede sacar mucho más beneficio por unidad frente a la tecnología o los muebles
