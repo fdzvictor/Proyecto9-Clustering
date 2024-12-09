@@ -68,7 +68,7 @@ A continuación, realizamos una serie de regresiones para explicar el modelo. Au
 En la carpeta Modelado2:
 
 - **Cluster 1:**
-  -          train      test
+        train      test
 R2    0.905117  0.880280
 MAE   0.276518  0.288890
 MSE   0.405934  0.502789
